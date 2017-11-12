@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Task_report_system:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring4MVCMaven-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Task_report_system:war exploded" />
+    </root>
+  </artifact>
+</component>
